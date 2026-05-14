@@ -23,6 +23,7 @@ Execute the C Program for the desired output.
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
 nano producer_consumer.c
 
+
  #include <stdio.h>
  #include <stdlib.h>
  #include <unistd.h>
@@ -31,9 +32,7 @@ nano producer_consumer.c
  #include <sys/sem.h>
  #include <sys/shm.h>
  #include <sys/wait.h>
-
 #define BUFFER_SIZE 3
-
 union semun {
     int val;
 };

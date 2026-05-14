@@ -108,16 +108,8 @@ gcc producer_consumer.c -o producer_consumer
 
 
 ## OUTPUT
-$ ./sem.o 
-<img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/d521be25-d946-4e15-b9ba-0040f31268ce" />
 
-
-
-$ ipcs
-
-
-
-
+<img width="542" height="491" alt="exp5" src="https://github.com/user-attachments/assets/9fe690aa-15ce-45df-a8e9-f9b38c9fcaca" />
 
 # RESULT:
 The program is executed successfully.

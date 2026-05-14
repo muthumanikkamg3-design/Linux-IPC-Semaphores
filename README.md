@@ -21,6 +21,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
+```
 nano producer_consumer.c
 
 
@@ -96,7 +97,7 @@ int main() {
     }
     return 0;
 }
-
+```
 
 gcc producer_consumer.c -o producer_consumer
 

@@ -110,6 +110,8 @@ gcc producer_consumer.c -o producer_consumer
 ## OUTPUT
 
 <img width="542" height="491" alt="exp5" src="https://github.com/user-attachments/assets/9fe690aa-15ce-45df-a8e9-f9b38c9fcaca" />
+<img width="567" height="232" alt="image" src="https://github.com/user-attachments/assets/ec644827-55a8-4ee4-95e2-d5b8cc713661" />
+
 
 # RESULT:
 The program is executed successfully.
